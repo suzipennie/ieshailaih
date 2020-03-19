@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooyimeehuu.clementfleury.me/sitemap.xml
